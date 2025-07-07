@@ -31,3 +31,8 @@ git switch master
 git tag -a v1.0 -m 'version 1.0 released' 1094adb
 git tag		//查看所有标签
 git push origin master --tags 	//push所有tags到远程
+
+
+//checkout
+git checkout -- file.txt
+git reset;
