@@ -20,7 +20,6 @@ yarn-error.log*
 *.local
 .history
 
-package-lock.json
 yarn.lock
 z_readme.md
 /public/config/
